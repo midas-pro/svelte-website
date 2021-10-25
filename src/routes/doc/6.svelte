@@ -6,6 +6,6 @@
       <p class="ml-16 text-lg leading-6 font-medium text-gray-900">Build Web Apps</p>
     </dt>
     <dd class="mt-2 ml-16 text-base text-gray-500">
-        You can change any code and content with you needed, then you can build for productions with run command <code class="text-dark font-bold">npm run build</code> then for run prod mode test drive with run <code class="text-dark font-bold">npm start</code> 
+        You can change any code and content with you needed, then you can build for productions with run command <code class="text-dark font-bold">npm run build</code> if failed you can try run with <code class="text-dark font-bold">npx sapper export</code> then you can see and upload folder build static on __sapper __/export for build production. ,then for run prod mode test drive with run <code class="text-dark font-bold">npm start</code> 
     </dd>
   </div>
