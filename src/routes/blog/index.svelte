@@ -19,7 +19,7 @@
 		{#each posts as post}
 		<a rel="prefetch" class="group" href="blog/{post.slug}">
 		  <div class="w-full aspect-w-1 aspect-h-1 bg-gray-200 rounded-lg overflow-hidden xl:aspect-w-7 xl:aspect-h-8">
-	<img src="{post.pic}" alt="{post.title}" class="w-full h-full object-center object-cover group-hover:opacity-75">
+	<img src="{post.pic}" alt="{post.title}" class="w-full h-full object-center object-cover group-hover:opacity-75" alt="sapper svelte themes template pembuatan website">
 		  </div>
 		  <h3 class="mt-4 text-sm text-gray-700">
 			{post.desc}
