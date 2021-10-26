@@ -7,6 +7,8 @@ Documentation Installation :
 
 [Video demo →](https://youtu.be/vtSINWl5pho)
 
+[Video how to installing and run on android smartphone →](https://youtu.be/VyQ4nf8V-mw)
+
 With progresive web app modules you can build modern web app using sapper svelte , clean design on blackwhite.
 
 ![free download sapper svelte modern web premium tailwind bootstrap gratis](https://1.bp.blogspot.com/-aRgJpp6NgKc/YXZslQe_wmI/AAAAAAAARfg/asEGmaCHsn8u2VGC-Gc9tBuemrTlp4W0gCLcBGAsYHQ/s1024/free%2Bsource%2Bcode%2Bwebsite%2Btemplate%2Bthemes%2Bsapper%2Bsvelte%2Bgratis%2B%25281%2529.jpg)
