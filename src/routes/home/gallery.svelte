@@ -8,13 +8,13 @@
       <div class="relative hidden md:block">
         <img 
              alt="sapper svelte themes template pembuatan website"
-             src="https://1.bp.blogspot.com/-FIRSXJWTj7w/YLeWRoz09WI/AAAAAAAAOd0/eVjF_wdjKegVRTubH2uOHr51DfQ-Tsl5wCLcBGAsYHQ/s1500/10277395_10201976695439927_1080519256032995583_n.jpg" alt="" class="absolute inset-0 w-full h-full object-cover rounded-lg bg-gray-100" />
+             src="https://1.bp.blogspot.com/-FIRSXJWTj7w/YLeWRoz09WI/AAAAAAAAOd0/eVjF_wdjKegVRTubH2uOHr51DfQ-Tsl5wCLcBGAsYHQ/s1500/10277395_10201976695439927_1080519256032995583_n.jpg" class="absolute inset-0 w-full h-full object-cover rounded-lg bg-gray-100" />
       </div>
       <div class="relative hidden md:block">
         <img 
              alt="sapper svelte themes template pembuatan website"
              src=" 
-        https://1.bp.blogspot.com/-Y3p6vYZcCj4/YLefOSH-qRI/AAAAAAAAOkw/mkPJ_z7GJdsqwxwGEVjmkLVpesDn7Wh9gCLcBGAsYHQ/s2048/13442666_10206622667546326_5575165093519059037_o.jpg" alt="" 
+        https://1.bp.blogspot.com/-Y3p6vYZcCj4/YLefOSH-qRI/AAAAAAAAOkw/mkPJ_z7GJdsqwxwGEVjmkLVpesDn7Wh9gCLcBGAsYHQ/s2048/13442666_10206622667546326_5575165093519059037_o.jpg" 
         class="absolute inset-0 w-full h-full object-cover rounded-lg bg-gray-100" />
       </div>
     </div>
